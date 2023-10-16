@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react';
-
+import { useEffect, useState } from 'react';
 import "./Home.scss";
 import axios from "axios";
 import {BiPlay} from 'react-icons/bi'
