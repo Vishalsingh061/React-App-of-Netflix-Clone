@@ -7,7 +7,7 @@ function App() {
   return <Router>
     <Header/>
     <Routes>
-      <Route exact path='/React-App-of-Netflix-Clone' element={<Home />} />
+      <Route exact path='/' element={<Home />} />
     </Routes>
   </Router>
 }
